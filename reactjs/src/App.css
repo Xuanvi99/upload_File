@@ -1,0 +1,11 @@
+.abc {
+  display: none;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+table tr td {
+  width: 100px;
+}
